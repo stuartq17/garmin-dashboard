@@ -10,7 +10,7 @@ As a distance runner who is learning how to code, I naturally wanted to create s
 
 ## Data source
 
-I gathered all of my data from Garmin using a single export of approximately 16000 files amounting to a total of about 143 MB of data, ranging from September 5th, 2021, through April 18th, 2026, which encompasses most of my training from 10th grade through my sophomore year of collegiate athletics. Much of this data was contained in activity files, which store data collected during manually started activities, and monitoring files, which store data collected throughout the day as I wear my watch. There are currently the only files I use in this website, though I have plans to use other data such as sleep metrics and VO2 max in the future.
+I gathered all of my data from Garmin using a single export of approximately 16000 files amounting to a total of about 143 MB of data (of which I kept approximately 61 MB), ranging from September 5th, 2021, through April 18th, 2026, which encompasses most of my training from 10th grade through my sophomore year of collegiate athletics. Much of this data was contained in activity files, which store data collected during manually started activities, and monitoring files, which store data collected throughout the day as I wear my watch. There are currently the only files I use in this website, though I have plans to use other data such as sleep metrics and VO2 max in the future.
 
 ## Cleaning
 
