@@ -4,7 +4,7 @@ import plotly.graph_objects as go
 
 @st.cache_data
 def load_data():
-    return pd.read_parquet("df_daily_hrs.parquet")
+    return pd.read_parquet("data/df_daily_hrs.parquet")
 
 df_daily_hrs = load_data()
 
