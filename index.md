@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# What this website is for
+# Garmin Dashboard
 
 As a distance runner who is learning how to code, I naturally wanted to create some tools to better understand my training. While resources like Strava and Garmin both have useful visualizations, they are best used for examining a single activity or day and are difficult to use for examining long-term trends in specific variables over time or against other variables, so I created this space to dive into particular combinations of data that are not freely represented elsewhere.
 
