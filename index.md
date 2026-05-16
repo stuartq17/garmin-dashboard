@@ -8,7 +8,7 @@ layout: default
 
 <div style="width:100%; height:100vh; overflow:hidden; border-radius:12px;">
   <iframe
-    src="https://stuartq17.github.io/garmin-dashboard/"
+    src="https://garmin-dashboard-tq4m.onrender.com"
     style="width:100%; height:100%; border:none;">
   </iframe>
 </div>
