@@ -31,12 +31,12 @@ season_order = [s for s in season_order
 
 selected_seasons = st.multiselect("Seasons", season_order, default=season_order)
 
-selected_metric = st.selectbox("Metric", metrics, index=0)
+selected_metric = st.selectbox("Metric", metrics, index=2)
 
-align = st.radio("Align", ["start", "end"], horizontal=True)
+align = st.radio("Align", ["start", "end"], index = 1, horizontal=True)
 
-# smoothing slider (NEW)
-window = st.slider("Smoothing (days)", 1, 30, 1, step=1)
+# smoothing slider
+window = st.slider("Smoothing (days)", 1, 30, 14, step=1)
 
 # smoothing
 df_smooth = df_daily_hrs.copy()
